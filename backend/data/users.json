@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rohith",
+    "email": "rohith@gmail.com",
+    "password": "$2b$10$35.AOpZuXXibDzXbzeOZ9.XqS1xg8PSXS8gxksORNaGL9q9PLJePe"
+  },
+  {
+    "name": "Raj",
+    "email": "raj@gmail.com",
+    "password": "$2b$10$WNJdlcZgVYc0wmdizjM3tOL30t5/n7jaTfxrjVWooz8BUeAM.oU8a"
+  },
+  {
+    "name": "Lekha Raj",
+    "email": "lekha@yahoo.com",
+    "password": "$2b$10$4V9APvsi2Hr6XTUyC.wmAur1z6rZef43.vg4ezwYJRu8EsDRm8b2C"
+  },
+  {
+    "name": "Ananya Raju",
+    "email": "ananya@yahoo.com",
+    "password": "$2b$10$BIg/NCV7bO892/mvz3jEAumPMsNvzfvwd..vBn6VkfwB/lOI1eWAC"
+  }
+]

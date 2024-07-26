@@ -1,0 +1,41 @@
+/* Container for login page */
+.container {
+    background-color: #fff;
+    max-width: 39.6rem;
+    display: flex;
+    flex-direction: column;
+    margin: 13rem auto;
+    background-color: #2b3d4f;
+    padding: 2.2rem;
+    box-shadow: 1px 1px 2.5px 2.5px #afafaf3f;
+  }
+  
+  .container h1 {
+    color: #d3d3d3;
+  }
+  
+  .container .input-label {
+    color: #fff;
+    display: block;
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding-bottom: 6.5px;
+  }
+  
+  .container .form-field {
+    margin-top: 2rem;
+  }
+  
+  .container input {
+    width: 100%;
+    height: 2.7rem;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .container button {
+    padding: 1rem;
+    margin-top: 3rem;
+  }
+  

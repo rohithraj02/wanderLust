@@ -1,0 +1,52 @@
+header {
+  background-color: #435585;
+  color: white;
+  padding: 0.5rem;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 1rem;
+}
+/* wanderlust logo */
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.logo span{
+  margin-left: 1rem;
+}
+.logo span a{
+  color: #fff;
+  text-decoration: none;
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.navbar li {
+  margin: 0 10px;
+}
+/* navbar ekenents */
+.navbar li a{
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.user-actions {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.user-actions a {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+

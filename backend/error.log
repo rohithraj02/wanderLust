@@ -1,0 +1,320 @@
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:35:52'
+}
+{
+  message: 'Error authenticating the user',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:36:08'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:39:05'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:46:40'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:46:40'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:46:40'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:46:40'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:49:11'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:51:36'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:51:36'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 16:59:10'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 17:06:03'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 17:12:40'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-20-2024 17:14:00'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:37:52'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:46:52'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:47:07'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:49:21'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:50:17'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:52:31'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:52:44'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:54:22'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 10:55:30'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:03:41'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:05:16'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:06:38'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:07:47'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:08:02'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:08:44'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:09:15'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:10:11'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:10:20'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:10:32'
+}
+{
+  message: 'Error Registering the user.',
+  level: 'error',
+  timestamp: 'Jul-21-2024 11:10:39'
+}
+{
+  message: 'Error authenticating the user',
+  level: 'error',
+  timestamp: 'Jul-21-2024 15:25:27'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:02:55'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:03:03'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:03:07'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:03:29'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:03:49'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:04:23'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:04:24'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:04:26'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:08:57'
+}
+{
+  message: 'Error in retrieving user with bookings for email: :roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:10:15'
+}
+{
+  message: 'Error in retrieving user with bookings for email: ${email}',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:11:59'
+}
+{
+  message: 'Error in retrieving user with bookings for email: ${roh@gmail.com}',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:12:15'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:12:23'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:13:01'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:15:09'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:16:34'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:17:25'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:17:56'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:18:23'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:18:55'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:19:16'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:20:09'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:21:03'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:22:18'
+}
+{
+  message: 'Error in retrieving user with bookings for email: roh@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:23:34'
+}
+{
+  message: 'Error in retrieving user with bookings for email: rohith@gmail.com',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:31:30'
+}
+{
+  message: 'Email is already registered',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:59:03'
+}
+{
+  message: 'Email is already registered',
+  level: 'error',
+  timestamp: 'Jul-22-2024 15:59:14'
+}
+{
+  message: 'Error authenticating the user',
+  level: 'error',
+  timestamp: 'Jul-22-2024 20:08:57'
+}

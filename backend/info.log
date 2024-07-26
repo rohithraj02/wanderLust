@@ -1,0 +1,454 @@
+{
+  level: 'info',
+  message: 'User registered successfully',
+  timestamp: 'Jul-21-2024 10:36:45'
+}
+{
+  name: 'roh',
+  email: 'roh@gmail.com',
+  packageName: 'Coastal Getaway',
+  price: '₹20,000',
+  gst: 0.15,
+  personCount: 3,
+  totalAmount: 69000,
+  _id: new ObjectId('669c97d46c355b2db6d36222'),
+  level: 'info',
+  message: 'Booking Saved successfully',
+  timestamp: 'Jul-21-2024 10:38:36'
+}
+{
+  level: 'info',
+  message: 'User registered successfully',
+  timestamp: 'Jul-21-2024 11:04:04'
+}
+{
+  level: 'info',
+  message: 'User registered successfully',
+  timestamp: 'Jul-21-2024 11:04:33'
+}
+{
+  level: 'info',
+  message: 'User registered successfully',
+  timestamp: 'Jul-21-2024 11:10:51'
+}
+{
+  name: 'raj',
+  email: 'raj@gmail.com',
+  packageName: 'Historical Heritage',
+  price: '₹22,000',
+  gst: 0.15,
+  personCount: 3,
+  totalAmount: 75900,
+  _id: new ObjectId('669ca06afaab8c69f627c053'),
+  level: 'info',
+  message: 'Booking Saved successfully',
+  timestamp: 'Jul-21-2024 11:15:14'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:22:18'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:24:47'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:25:39'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:25:56'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:28:09'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:29:34'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:31:59'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:18'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:20'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:20'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:49'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:49'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:33:55'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:34:38'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:34:38'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:06'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:06'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:06'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:49'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:49'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:51'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:36:51'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:37:07'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:37:41'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:37:41'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:40:31'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:40:31'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:42:34'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:42:38'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:42:39'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:46:47'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:46:53'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:46:53'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:47:15'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:47:15'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:50:28'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:50:28'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:50:37'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:50:37'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:51:10'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:52:09'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:52:33'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:52:41'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:52:45'
+}
+{
+  name: 'roh',
+  email: 'roh@gmail.com',
+  packageName: 'Historical Heritage',
+  price: '₹22,000',
+  gst: 0.15,
+  personCount: 2,
+  totalAmount: 50600,
+  _id: new ObjectId('669e331806dfd66e5803b509'),
+  level: 'info',
+  message: 'Booking saved successfully',
+  timestamp: 'Jul-22-2024 15:53:20'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:53:25'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:53:25'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:53:51'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:53:51'
+}
+{
+  name: 'roh',
+  email: 'roh@gmail.com',
+  packageName: "God's Own Country",
+  price: '₹23,000',
+  gst: 0.15,
+  personCount: 1,
+  totalAmount: 26450,
+  _id: new ObjectId('669e334806dfd66e5803b50a'),
+  level: 'info',
+  message: 'Booking saved successfully',
+  timestamp: 'Jul-22-2024 15:54:08'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:54:12'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:54:12'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:54:40'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:54:40'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:54:46'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:55:01'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:55:01'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:55:57'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:55:57'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:56:27'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:57:23'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:57:31'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:57:31'
+}
+{
+  level: 'info',
+  message: 'User registered successfully',
+  timestamp: 'Jul-22-2024 15:59:14'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:59:32'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:59:32'
+}
+{
+  name: 'Raj',
+  email: 'rajendran@gmail.com',
+  packageName: 'Coastal Getaway',
+  price: '₹20,000',
+  gst: 0.15,
+  personCount: 1,
+  totalAmount: 23000,
+  _id: new ObjectId('669e34a206dfd66e5803b50c'),
+  level: 'info',
+  message: 'Booking saved successfully',
+  timestamp: 'Jul-22-2024 15:59:54'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:59:58'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 15:59:58'
+}
+{
+  message: 'Retrieved user and bookings for email: roh@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 16:00:11'
+}
+{
+  name: 'Raj',
+  email: 'rajendran@gmail.com',
+  packageName: 'Historical Heritage',
+  price: '₹22,000',
+  gst: 0.15,
+  personCount: 3,
+  totalAmount: 75900,
+  date: '2024-07-24',
+  _id: new ObjectId('669e358a06dfd66e5803b50d'),
+  level: 'info',
+  message: 'Booking saved successfully',
+  timestamp: 'Jul-22-2024 16:03:46'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 16:08:03'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 16:08:03'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 19:58:37'
+}
+{
+  message: 'Retrieved user and bookings for email: rajendran@gmail.com',
+  level: 'info',
+  timestamp: 'Jul-22-2024 19:58:38'
+}

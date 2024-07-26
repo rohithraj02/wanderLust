@@ -1,0 +1,83 @@
+[
+    {
+      "popular": "true",
+      "name": "Ooty",
+      "tagline": "Queen of Hill Stations",
+      "image": "https://i.pinimg.com/474x/1d/e9/db/1de9db3f6b62860916fbcba80e2f386e.jpg",
+      "history": "Ooty, officially known as Udhagamandalam, is a popular hill station in the Nilgiri Hills of Tamil Nadu, India. Renowned for its tea plantations, lush greenery, and colonial architecture.",
+      "distanceFromCity": "86 km from Coimbatore",
+      "whenToVisit": "Year-round destination",
+      "whoShouldVisit": "Nature lovers, honeymooners"
+    },
+    {
+      "popular": "false",
+      "name": "Madurai",
+      "tagline": "City of Temples",
+      "image": "https://i.pinimg.com/474x/f8/bb/b1/f8bbb1c0ed1961d00e1ee46e75640127.jpg",
+      "history": "Madurai, one of the oldest cities in India, is renowned for its Dravidian-style temples, vibrant markets, and lively festivals.",
+      "distanceFromCity": "450 km from Chennai",
+      "whenToVisit": "October to March",
+      "whoShouldVisit": "Religious pilgrims, history buffs"
+    },
+    {
+      "popular": "true",
+      "name": "Pondicherry",
+      "tagline": "A Slice of France in India",
+      "image": "https://i.pinimg.com/474x/9f/80/8d/9f808d7c5ec975b0ca25c531190064eb.jpg",
+      "history": "Pondicherry, now known as Puducherry, was a French colonial settlement until 1954. Characterized by its colonial-era buildings and vibrant culture, Pondicherry is a blend of French and Indian influences.",
+      "distanceFromCity": "135 km from Chennai",
+      "whenToVisit": "October to March",
+      "whoShouldVisit": "Beach lovers, history enthusiasts"
+    },
+    {
+      "popular": "false",
+      "name": "Kodaikanal",
+      "tagline": "Princess of Hill Stations",
+      "image": "https://i.pinimg.com/474x/e5/b2/c6/e5b2c6e04cfa15cfb0f372336479ec97.jpg",
+      "history": "Kodaikanal, often referred to as the 'Princess of Hill Stations,' is famous for its scenic beauty, pristine lakes, and verdant valleys.",
+      "distanceFromCity": "172 km from Coimbatore",
+      "whenToVisit": "Year-round destination",
+      "whoShouldVisit": "Nature enthusiasts, honeymooners"
+    },
+    {
+      "popular": "true",
+      "name": "Mysore",
+      "tagline": "City of Palaces",
+      "image": "https://i.pinimg.com/474x/55/9e/00/559e007dd6d1899a3f08e6872b6ca826.jpg",
+      "history": "Mysore, also known as the 'City of Palaces,' is renowned for its royal heritage and magnificent architecture.",
+      "distanceFromCity": "143 km from Bangalore",
+      "whenToVisit": "October to February",
+      "whoShouldVisit": "History buffs, architecture enthusiasts"
+    },
+    {
+      "popular": "false",
+      "name": "Madikeri",
+      "tagline": "Scotland of India",
+      "image": "https://i.pinimg.com/474x/96/b0/08/96b008b42afa686ab4a4b21ab77c6162.jpg",
+      "history": "Madikeri, often referred to as the 'Scotland of India,' is a picturesque hill station known for its misty hills, lush forests, and coffee plantations.",
+      "distanceFromCity": "270 km from Bangalore",
+      "whenToVisit": "October to March",
+      "whoShouldVisit": "Nature lovers, adventure seekers"
+    },
+    {
+      "popular": "true",
+      "name": "Hampi",
+      "tagline": "City of Ruins",
+      "image": "https://i.pinimg.com/474x/0f/48/43/0f48434ca2c9c608972730d5551e77d8.jpg",
+      "history": "Hampi, a UNESCO World Heritage Site, is an ancient city dotted with ruins of temples, palaces, and monuments.",
+      "distanceFromCity": "353 km from Bangalore",
+      "whenToVisit": "October to February",
+      "whoShouldVisit": "History enthusiasts, architecture buffs"
+    },
+    {
+      "popular": "false",
+      "name": "Gokarna",
+      "tagline": "Beach Paradise",
+      "image": "https://i.pinimg.com/474x/f2/59/42/f259422a60f1e0e782e245ecf8ebee4a.jpg",
+      "history": "Gokarna is known for its pristine beaches, sacred temples, and laid-back vibe.",
+      "distanceFromCity": "483 km from Bangalore",
+      "whenToVisit": "October to March",
+      "whoShouldVisit": "Beach lovers, backpackers"
+    }
+  ]
+  

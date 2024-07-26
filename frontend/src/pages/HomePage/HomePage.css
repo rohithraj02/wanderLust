@@ -1,0 +1,38 @@
+.home .content {
+    position: relative;
+  }
+  
+  .home .content img {
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+  }
+  
+  .home .content h1 {
+    position: absolute;
+    color: #ffffff;
+    font-size: 2rem;
+    top: 5%;
+    right: 44%;
+}
+  .home .content h2 {
+    position: absolute;
+    color: #ccc;
+    top: 18%;
+    right: 43%;
+  }
+  
+  .home .home-page-container .tagline {
+    display: flex;
+    padding: 0.5rem;
+    background-color: #F5E8C7;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .home .home-page-container .popular-locations h3 {
+    margin-left: 3.5rem;
+    margin-top: 1.7rem;
+    font-size: 2rem;
+  }
+  

@@ -1,0 +1,23 @@
+[
+  {
+    "email": "rohith@gmail.com",
+    "package": "God's Own Country",
+    "date": "2024-04-15",
+    "price": 75900,
+    "numberOfPeople": 3
+  },
+  {
+    "email": "raj@gmail.com",
+    "package": "Coastal Getaway",
+    "date": "2024-04-25",
+    "price": 46000,
+    "numberOfPeople": 2
+  },
+  {
+    "email": "rohith@gmail.com",
+    "package": "Wildlife Safari",
+    "date": "2024-04-27",
+    "price": 29900,
+    "numberOfPeople": 1
+  }
+]

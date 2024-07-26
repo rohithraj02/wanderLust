@@ -1,0 +1,7 @@
+[
+    { "email": "rohithraj2015@gmail.com", "password": "rohith123" ,"name": "Rohith Rajendran","gender":"male"},
+    { "email": "abc@gmail.com", "password": "abc" ,"name" : "abc","gender":"female"},
+    { "email": "def@gmail.com", "password": "def" , "name" : "def","gender":"female"},
+    { "email": "ghi@gmail.com", "password": "ghi" , "name" : "ghi","gender":"female"},
+    { "email": "jkl@gmail.com", "password": "jkl" , "name" : "jkl","gender":"male"}
+]

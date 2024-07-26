@@ -1,0 +1,346 @@
+[
+    {
+    "package_name": "Heritage Hill Retreat",
+    "locations_covered": ["Coorg", "Mysore", "Ooty"],
+    "description": "Embark on a journey through the tranquil hill stations and rich heritage sites of Mysore with this rejuvenating package.",
+    "image":"https://images.pexels.com/photos/6194001/pexels-photo-6194001.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "itinerary": [
+        {
+        "day": 1,
+        "activities": [
+            "Visit Dubare Elephant Camp",
+            "Visit Namdroling Monastery in Kushalnagar",
+            "Explore the lush coffee plantations of Coorg"
+        ],
+        "accommodation": "Stay in a serene resort in Coorg",
+        "meals": "Enjoy authentic Coorgi cuisine for dinner"
+        },
+        {
+        "day": 2,
+        "activities": [
+            "Visit the picturesque Talakaveri in Coorg",
+            "Explore the scenic beauty of Raja's Seat in Madikeri",
+            "Visit the Madikeri Fort",
+            "Experience the tranquility of Abbey Falls"
+        ],
+        "accommodation": "Continue your stay in Coorg",
+        "meals": "Indulge in a traditional South Indian thali for dinner"
+        },
+        {
+        "day": 3,
+        "activities": [
+            "Take a heritage walk through the streets of Mysore",
+            "Experience the grandeur of Mysore Palace",
+            "Visit the vibrant Devaraja Market",
+            "Explore the serene atmosphere of Chamundi Hill",
+            "Experience the charm of Brindavan Gardens"
+        ],
+        "accommodation": "Stay in a heritage hotel in Mysore",
+        "meals": "Savor traditional South Indian delicacies for dinner"
+        },
+        {
+        "day": 4,
+        "activities": [
+            "Explore the botanical wonders of the Government Botanical Garden in Ooty",
+            "Experience the scenic Nilgiri Mountain Railway journey",
+            "Visit the Doddabetta Peak for panoramic views",
+            "Take a boat ride on Ooty Lake"
+        ],
+        "accommodation": "Stay in a cozy hotel in Ooty",
+        "meals": "Enjoy dinner at a local restaurant"
+        },
+        {
+        "day": 5,
+        "activities": [
+            "Visit the serene Pykara Lake and Waterfalls",
+            "Explore the historic Ooty Rose Garden",
+            "Experience the thrill of the Ooty Toy Train ride",
+            "Enjoy a leisurely stroll at the scenic Avalanche Lake"
+        ],
+        "accommodation": "Continue your stay in Ooty",
+        "meals": "Indulge in delicious local cuisine for dinner"
+        }
+    ],
+    "price": "₹25,000",
+    "duration": "5 days"
+    },      
+    {
+        "package_name": "Coastal Getaway",
+        "locations_covered": ["Chennai", "Mahabalipuram", "Puducherry"],
+        "description": "Indulge in the serene beauty of South India's coastline with this relaxing beach package.",
+        "image":"https://images.pexels.com/photos/2403207/pexels-photo-2403207.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "itinerary": [
+        {
+            "day": 1,
+            "activities": [
+            "Explore the historic Fort St. George in Chennai",
+            "Visit the beautiful Marina Beach",
+            "Experience the vibrant culture of Kapaleeshwarar Temple"
+            ],
+            "accommodation": "Stay in a comfortable hotel in Chennai",
+            "meals": "Enjoy dinner at a local restaurant"
+        },
+        {
+            "day": 2,
+            "activities": [
+            "Explore the bustling streets and shops of T. Nagar for shopping",
+            "Visit the Government Museum to explore local history",
+            "Experience traditional South Indian cuisine at a local eatery"
+            ],
+            "accommodation": "Continue your stay in Chennai",
+            "meals": "Enjoy dinner at a local restaurant"
+        },
+        {
+            "day": 3,
+            "activities": [
+            "Explore the ancient Shore Temple in Mahabalipuram",
+            "Visit the UNESCO World Heritage Site of Mahabalipuram",
+            "Experience the beauty of Krishna's Butterball"
+            ],
+            "accommodation": "Stay in a comfortable hotel in Mahabalipuram",
+            "meals": "Enjoy dinner at a local restaurant"
+        },
+        {
+            "day": 4,
+            "activities": [
+            "Stroll through the French Quarter in Pondicherry",
+            "Relax at Paradise Beach",
+            "Visit the historic Auroville"
+            ],
+            "accommodation": "Stay in a beachside resort in Pondicherry",
+            "meals": "Indulge in French cuisine for dinner"
+        },
+        {
+            "day": 5,
+            "activities": [
+            "Take a leisurely walk on the Promenade Beach in Pondicherry",
+            "Explore the charming architecture of the French Colony",
+            "Visit the Basilica of the Sacred Heart of Jesus"
+            ],
+            "accommodation": "Continue your stay in Pondicherry",
+            "meals": "Indulge in delicious seafood for dinner"
+        }
+        ],
+        "price": "₹20,000",
+        "duration": "5 days"
+    },  
+    {
+        "package_name": "Historical Heritage",
+        "locations_covered": ["Hampi", "Badami", "Belur"],
+        "description": "Explore the rich historical heritage of South India's ancient kingdoms and empires.",
+        "image": "https://images.pexels.com/photos/3931344/pexels-photo-3931344.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "itinerary": [
+        {
+        "day": 1,
+        "activities": [
+        "Visit the majestic Brihadeeswarar Temple in Hampi",
+        "Explore the ancient Chola architecture",
+        "Experience the beauty of Hampi Palace"
+        ],
+        "accommodation": "Stay in a comfortable hotel in Hampi",
+        "meals": "Enjoy traditional South Indian cuisine for dinner"
+        },
+        {
+        "day": 2,
+        "activities": [
+        "Explore the historic ruins of Badami",
+        "Visit the magnificent Badami Cave Temples",
+        "Experience the architectural marvel of Badami Fort"
+        ],
+        "accommodation": "Stay in a cozy guesthouse in Badami",
+        "meals": "Indulge in North Karnataka cuisine for dinner"
+        },
+        {
+        "day": 3,
+        "activities": [
+        "Discover the architectural wonders of Belur",
+        "Visit the Chennakesava Temple",
+        "Explore the historic ruins of Belur"
+        ],
+        "accommodation": "Stay in a comfortable hotel in Belur",
+        "meals": "Savor delicious dinner at the hotel"
+        },
+        {
+        "day": 4,
+        "activities": [
+        "Take a heritage walk through the streets of Hampi",
+        "Visit the ancient Brihadeeswarar Temple",
+        "Explore the serene atmosphere of Hampi"
+        ],
+        "accommodation": "Continue your stay in Hampi",
+        "meals": "Enjoy dinner at a local restaurant"
+        },
+        {
+        "day": 5,
+        "activities": [
+        "Explore the architectural marvels of Belur",
+        "Visit the historic Hoysala temples",
+        "Experience the tranquility of Belur"
+        ],
+        "accommodation": "Stay in a cozy guesthouse in Belur",
+        "meals": "Indulge in South Indian cuisine for dinner"
+        },
+        {
+        "day": 6,
+        "activities": [
+        "Explore the ancient architecture of Belur",
+        "Visit the famous Chennakesava Temple",
+        "Experience the beauty of Belur"
+        ],
+        "accommodation": "Continue your stay in Belur",
+        "meals": "Enjoy dinner at the guesthouse"
+        }
+        ],
+        "price": "₹22,000",
+        "duration": "6 days"
+        },
+    {
+        "package_name": "Wildlife Safari",
+        "locations_covered": ["Bandipur", "Periyar", "Nagarhole"],
+        "description": "Embark on an adventure through South India's wildlife sanctuaries and national parks.",
+        "image": "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "itinerary": [
+        {
+            "day": 1,
+            "activities": [
+            "Experience a thrilling safari at Bandipur National Park",
+            "Spot diverse wildlife including elephants and tigers",
+            "Explore the beauty of Bandipur Forest"
+            ],
+            "accommodation": "Stay in a jungle resort near Bandipur National Park",
+            "meals": "Enjoy a traditional dinner at the resort"
+        },
+        {
+            "day": 2,
+            "activities": [
+            "Take a boat ride on Periyar Lake",
+            "Experience the wildlife at Periyar Wildlife Sanctuary",
+            "Explore the spice plantations of Thekkady"
+            ],
+            "accommodation": "Stay in a comfortable hotel in Thekkady",
+            "meals": "Indulge in Kerala cuisine for dinner"
+        },
+        {
+            "day": 3,
+            "activities": [
+            "Experience a jungle safari at Nagarhole National Park",
+            "Spot diverse wildlife including elephants and leopards",
+            "Explore the beauty of Nagarhole Forest"
+            ],
+            "accommodation": "Stay in a jungle resort near Nagarhole National Park",
+            "meals": "Savor dinner at the resort"
+        },
+        {
+            "day": 4,
+            "activities": [
+            "Take a guided nature walk in Bandipur",
+            "Visit the elephant training camp at Bandipur"
+            ],
+            "accommodation": "Continue your stay in the jungle resort near Bandipur National Park",
+            "meals": "Enjoy a farewell dinner at the resort"
+        },
+        {
+            "day": 5,
+            "activities": [
+            "Experience a bamboo rafting adventure in Periyar",
+            "Explore the Periyar Wildlife Sanctuary",
+            "Visit Kadathanadan Kalari Centre for a martial arts performance"
+            ],
+            "accommodation": "Stay in a comfortable hotel in Thekkady",
+            "meals": "Indulge in Kerala cuisine for dinner"
+        },
+        {
+            "day": 6,
+            "activities": [
+            "Explore the scenic beauty of Kabini River",
+            "Experience a thrilling boat safari at Nagarhole National Park",
+            "Spot diverse wildlife including deer and langurs"
+            ],
+            "accommodation": "Stay in a jungle resort near Nagarhole National Park",
+            "meals": "Enjoy dinner at the resort"
+        },
+        {
+            "day": 7,
+            "activities": [
+            "Take a guided bird watching tour in Bandipur",
+            "Spot rare and exotic bird species",
+            "Explore the biodiversity of Bandipur Forest"
+            ],
+            "accommodation": "Continue your stay in the resort at Bandipur National Park",
+            "meals": "Savor a farewell dinner at the resort"
+        }
+        ],
+        "price": "₹26,000",
+        "duration": "7 days"
+    },
+    {
+        "package_name": "God's Own Country",
+        "locations_covered": ["Alappuzha", "Varkala", "Munnar", "Idukki"],
+        "description": "Experience the enchanting beauty of Kerala, known as God's Own Country, with this exclusive package.",
+        "image":"https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "itinerary": [
+        {
+            "day": 1,
+            "activities": [
+            "Experience a serene backwater cruise in Alappuzha",
+            "Visit the famous Alappuzha Beach",
+            "Explore the tranquil backwaters of Alappuzha"
+            ],
+            "accommodation": "Stay in a houseboat in Alappuzha",
+            "meals": "Enjoy traditional Kerala cuisine on board"
+        },
+        {
+            "day": 2,
+            "activities": [
+            "Explore the pristine beaches of Varkala",
+            "Visit the ancient Janardanaswamy Temple",
+            "Experience the beauty of Varkala Cliff"
+            ],
+            "accommodation": "Stay in a beachside resort in Varkala",
+            "meals": "Indulge in seafood delicacies for dinner"
+        },
+        {
+            "day": 3,
+            "activities": [
+            "Experience the breathtaking views from the hills of Munnar",
+            "Visit the tea gardens of Munnar",
+            "Explore the Eravikulam National Park"
+            ],
+            "accommodation": "Stay in a hill station resort in Munnar",
+            "meals": "Savor traditional Kerala cuisine for dinner"
+        },
+        {
+            "day": 4,
+            "activities": [
+            "Experience a rejuvenating Ayurvedic massage in Munnar",
+            "Explore the beauty of Mattupetty Dam",
+            "Visit the famous Echo Point"
+            ],
+            "accommodation": "Continue your stay in Munnar",
+            "meals": "Enjoy dinner at the resort"
+        },
+        {
+            "day": 5,
+            "activities": [
+            "Explore the picturesque hill station of Idukki",
+            "Visit the Idukki Arch Dam",
+            "Experience the beauty of Ramakkalmedu"
+            ],
+            "accommodation": "Stay in a hill station resort in Idukki",
+            "meals": "Indulge in traditional Kerala cuisine for dinner"
+        },
+        {
+            "day": 6,
+            "activities": [
+            "Experience the tranquility of Idukki Wildlife Sanctuary",
+            "Take a nature walk through the sanctuary",
+            "Explore the biodiversity of Idukki"
+            ],
+            "accommodation": "Continue your stay in Idukki",
+            "meals": "Savor dinner at the resort"
+        }
+        ],
+        "price": "₹23,000",
+        "duration": "6 days"
+    }
+    ]
